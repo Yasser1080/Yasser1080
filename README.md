@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Yasser Ibouda</h1>
-<h3 align="center">Etudiant en 2e année de BUT Informatique à l'IUT de Paris - Rives de Seine - Université de Paris.</h3>
+<h3 align="center">Étudiant en 2ème année de BUT Informatique à l'IUT de Paris Cité - Rives de Seine.</h3>
 
 - 👨‍💻 Mon portfolio est disponible ici [https://yasser1080.github.io/](https://yasser1080.github.io/)
 
