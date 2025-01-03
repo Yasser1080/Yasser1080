@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋, je suis Yasser Ibouda</h1>
-<h3 align="center">Étudiant en 3ème année de Licence MIAGE à l'IUT de Paris Cité - Rives de Seine.</h3>
+<h1 align="center">Bonjour 👋, je suis Yasser</h1>
+<h3 align="center">Étudiant en MIAGE à l'Université Paris Cité.</h3>
 <!-- 
 - 👨‍💻 Mon portfolio est disponible ici [https://yasser1080.github.io/](https://yasser1080.github.io/)
 -->
